@@ -62,8 +62,6 @@ namespace ThirdPersonControl
         {
             isDead = true;
             core.characterController.enabled = false;
-          //  core.thirdPersonController.enabled = false;
-         //   core.thirdPersonShooterController.enabled = false;
             core.rigidBodyPush.enabled = false;
             core.animator.SetLayerWeight(1, Mathf.Lerp(core.animator.GetLayerWeight(1), 0f, Time.deltaTime * 13f));
             core.animator.SetTrigger("Death");
@@ -76,7 +74,6 @@ namespace ThirdPersonControl
                 tracker.allies.Remove(gameObject.transform);
             }
             yield return new WaitForSeconds(5);
-         //   core.gameController.GetComponent<Quit>().QuitGame();
         }
     }
 }
