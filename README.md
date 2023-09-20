@@ -10,3 +10,5 @@
 - Melee Combat system
 - Companion system
 - Spawning system
+
+[ConfederateAI on itch.io](https://cursed-entertainment.itch.io/confederate-ai)
