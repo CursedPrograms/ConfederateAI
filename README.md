@@ -1,7 +1,7 @@
 # ConfederateAI
 3D logic-based AI for Unity.
 
-**PRO FEATURES**
+**FEATURES**
 - Unity Navmesh compatible
 - No Plug-ins required
 - Player and AI detection
