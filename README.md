@@ -10,4 +10,3 @@
 - Melee Combat system
 - Companion system
 - Spawning system
-- Easy-to-Use and setup with editor windows & debugger
