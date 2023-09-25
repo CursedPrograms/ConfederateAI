@@ -11,7 +11,7 @@
 2. **AI_Agent**
    - *Attach:* AICore.cs
    - *Create child object:*
-   -  **Attach:**AIFollowControl.cs
+     - **Attach:** AIFollowControl.cs
 
 3. **Player - Character Controller**
    - *Tag:* "Player"
