@@ -9,8 +9,9 @@
      - *Set Faction:* 0 (Ally), 1 (Enemy)
 
 2. **AI_Agent**
-   - *Attach:* AICore
-   - *Create child object:* AIFollowControl.cs
+   - *Attach:* AICore.cs
+   - *Create child object:*
+   -  **Attach:**AIFollowControl.cs
 
 3. **Player - Character Controller**
    - *Tag:* "Player"
