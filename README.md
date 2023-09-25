@@ -12,7 +12,7 @@
    - *Attach:* AICore
    - *Create child object:* AIFollowControl.cs
 
-3. **Player**
+3. **Player - Character Controller**
    - *Tag:* "Player"
    - *Attach:* PlayerCore.cs
 
