@@ -12,7 +12,7 @@
 - Companion system
 - Spawning system
 
-##Instructions
+## Instructions
 
 - Make sure you have a blood pool and blood spatter particle system.
 - Create all the required UI elements in world space and assign them as children to their respective AI (the Player can be the Camera).
