@@ -1,3 +1,8 @@
+<div align="center">
+  <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/>  
+</div>
+
 # ConfederateAI
 
 *3D Logic-Based AI for Unity*
