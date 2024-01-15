@@ -38,6 +38,7 @@
    - **Attach:** AICore.cs
    - Create child object:
      - **Attach:** AIFollowControl.cs
+   - Create Ragdoll
 
 ### 3. Player - Character Controller
    - **Tag:** "Player"
