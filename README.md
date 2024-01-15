@@ -50,5 +50,5 @@
 [ConfederateAI on itch.io](https://cursed-entertainment.itch.io/confederate-ai)
 
 Example Games:
-[Araknia](https://cursed-entertainment.itch.io/araknia)
-[Nystylla](https://cursed-entertainment.itch.io/nystylla)
+- [Araknia](https://cursed-entertainment.itch.io/araknia)
+- [Nystylla](https://cursed-entertainment.itch.io/nystylla)
