@@ -49,6 +49,6 @@
 
 [ConfederateAI on itch.io](https://cursed-entertainment.itch.io/confederate-ai)
 
-Example Games:
+### Example Games:
 - [Araknia](https://cursed-entertainment.itch.io/araknia)
-- [Nystylla](https://cursed-entertainment.itch.io/nystylla)
+- [Nystylla: Girls of Maluxzka](https://cursed-entertainment.itch.io/nystylla)
