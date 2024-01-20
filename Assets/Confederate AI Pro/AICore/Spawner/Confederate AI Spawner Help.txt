@@ -1,0 +1,3 @@
+- Drag on an empty game object. - No tags.
+- Make sure this game object is on a navmesh.
+- Select a prefab from the project window/not the hierarchy window.
