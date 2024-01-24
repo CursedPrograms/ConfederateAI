@@ -55,3 +55,8 @@
 ### Example Games:
 - [Araknia](https://cursed-entertainment.itch.io/araknia)
 - [Nystylla: Girls of Maluxzka](https://cursed-entertainment.itch.io/nystylla)
+
+<a href="https://cursed-entertainment.itch.io/" target="_blank">
+    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
+        alt="CursedEntertainment Logo">
+</a>
