@@ -2,3 +2,8 @@
 *.md linguist-generated=false
 *.md linguist-documentation=false
 *.md linguist-detectable=true
+
+*.json linguist-vendored=false
+*.json linguist-generated=false
+*.json linguist-documentation=false
+*.json linguist-detectable=true
