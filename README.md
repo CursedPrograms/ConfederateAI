@@ -9,7 +9,11 @@
 # ConfederateAI
 
 *3D Logic-Based AI for Unity*
-
+<div align="center">
+<a target="_blank">
+    <img src="[/demo_images/cover.png](https://github.com/CursedPrograms/ConfederateAI/blob/main/Assets/Sprites/Confederate%20AI%20Logo.png)"
+        alt="CursedGPT">
+  
 ## Features
 - Unity Navmesh compatible
 - No Plug-ins required
