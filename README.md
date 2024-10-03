@@ -5,6 +5,7 @@
 <div align="center">
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
 </div>
+<br>
 
 # ConfederateAI
 
@@ -14,6 +15,8 @@
     <img src="https://github.com/CursedPrograms/ConfederateAI/blob/main/Assets/Sprites/Confederate%20AI%20Logo.png"
         alt="CursedGPT" style="width:50%;">
 </a></div>
+
+<br>
   
 ## Features
 - Unity Navmesh compatible
@@ -65,6 +68,7 @@
 <div align="center">
 © Cursed Entertainment 2024
 </div>
+<br>
 <div align="center">
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
